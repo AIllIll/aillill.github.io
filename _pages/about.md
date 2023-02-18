@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I love zhuzhu
+I love zhuzhu lalala
 
 A data-driven personal website
 ======
